@@ -1,0 +1,11 @@
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/bin/Debug/netcoreapp2.0/NEXTWebAPI.deps.json
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/bin/Debug/netcoreapp2.0/NEXTWebAPI.runtimeconfig.json
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/bin/Debug/netcoreapp2.0/NEXTWebAPI.runtimeconfig.dev.json
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/bin/Debug/netcoreapp2.0/NEXTWebAPI.dll
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/bin/Debug/netcoreapp2.0/NEXTWebAPI.pdb
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/obj/Debug/netcoreapp2.0/NEXTWebAPI.csprojResolveAssemblyReference.cache
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/obj/Debug/netcoreapp2.0/NEXTWebAPI.csproj.CoreCompileInputs.cache
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/obj/Debug/netcoreapp2.0/NEXTWebAPI.AssemblyInfoInputs.cache
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/obj/Debug/netcoreapp2.0/NEXTWebAPI.AssemblyInfo.cs
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/obj/Debug/netcoreapp2.0/NEXTWebAPI.dll
+/Users/user/IT/workspace/dotnet/NEXTWebAPI/NEXTWebAPI/obj/Debug/netcoreapp2.0/NEXTWebAPI.pdb
